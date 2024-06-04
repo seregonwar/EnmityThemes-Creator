@@ -1,0 +1,158 @@
+{
+  "name": "Cyberpunk Theme",
+  "description": "A vibrant and futuristic cyberpunk theme",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "seregonwar",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#ff00ff",
+      "#ff00ff"
+    ],
+    "HEADER_SECONDARY": [
+      "#00ffff",
+      "#00ffff"
+    ],
+    "NORMAL_TEXT": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "TEXT_MUTED": [
+      "#808080",
+      "#808080"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#00ff00",
+      "#00ff00"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#00cc00",
+      "#00cc00"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#009900",
+      "#009900"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#666666",
+      "#666666"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0d0d0d",
+      "#0d0d0d"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#262626",
+      "#262626"
+    ],
+    "TERTIARY_BACKGROUND": [
+      "#333333",
+      "#333333"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#3d3d3d",
+      "#3d3d3d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#464646",
+      "#464646"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#4d4d4d",
+      "#4d4d4d"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#525252",
+      "#525252"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#575757",
+      "#575757"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(77, 77, 77, 0.1)",
+      "#606060"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(77, 77, 77, 0.1)",
+      "hsla(0, 0%, 40%, 0.1)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(77, 77, 77, 0.2)",
+      "hsla(0, 0%, 40%, 0.2)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(77, 77, 77, 0.3)",
+      "hsla(0, 0%, 40%, 0.3)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(0, 0%, 40%, 0.1)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#ff00ff",
+      "hsla(300, 100%, 50%, 0.4)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(300, 100%, 50%, 0.2)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#ff00ff",
+      "#ff00ff"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(255, 0, 255, 0.1)",
+      "#ff00ff"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#00ffff",
+      "#00ffff"
+    ],
+    "TEXT_LINK": [
+      "#ff00ff",
+      "#ff00ff"
+    ],
+    "KEYBOARD": [
+      "#00ffff",
+      "#00ffff"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#0a0a0a",
+    "PRIMARY_DARK_100": "#0b0b0b",
+    "PRIMARY_DARK_200": "#0c0c0c",
+    "PRIMARY_DARK_300": "#0d0d0d",
+    "PRIMARY_DARK_360": "#0e0e0e",
+    "PRIMARY_DARK_400": "#0f0f0f",
+    "PRIMARY_DARK_500": "#101010",
+    "PRIMARY_DARK_600": "#111111",
+    "PRIMARY_DARK_630": "#121212",
+    "PRIMARY_DARK_700": "#131313",
+    "PRIMARY_DARK_800": "#141414",
+    "BRAND_NEW": "#ff4500",
+    "STATUS_RED": "#ff0000",
+    "STATUS_GREEN_600": "#00ff00",
+    "YELLOW_STATE": "#ffff00"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#333333"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://github.com/seregonwar/EnmityThemes-Creator/blob/main/Background/cyberpunk.jpg",
+    "alpha": 1.0
+  }
+}
