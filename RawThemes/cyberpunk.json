@@ -1,6 +1,6 @@
 {
-  "name": "Cyberpunk Theme",
-  "description": "A vibrant and futuristic cyberpunk theme",
+  "name": "Cyberpunk2077 Theme",
+  "description": "A vibrant and futuristic cyberpunk theme with yellow accents based on cyberpunk 2077",
   "version": "1.0.0",
   "authors": [
     {
@@ -18,12 +18,12 @@
       "#00ffff"
     ],
     "NORMAL_TEXT": [
-      "#ffffff",
-      "#ffffff"
+      "rgb(89,162,187)",
+      "rgb(89,162,187)"
     ],
     "TEXT_MUTED": [
-      "#808080",
-      "#808080"
+      "#b0b0b0",
+      "#b0b0b0"
     ],
     "INTERACTIVE_NORMAL": [
       "#00ff00",
@@ -145,7 +145,7 @@
     "BRAND_NEW": "#ff4500",
     "STATUS_RED": "#ff0000",
     "STATUS_GREEN_600": "#00ff00",
-    "YELLOW_STATE": "#ffff00"
+    "YELLOW_STATE": "#faf600"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#333333"
