@@ -1,0 +1,189 @@
+Your goal is to create presets for Enmity, the instructions you need to follow to modify the parameters of the .json file are as follows:
+1)theme_color_map
+2) HEADER_SECONDARY
+3) NORMAL_TEXT
+4)TEXT_MUTED
+5)INTERACTIVE_NORMAL
+6)INTERACTIVE_HOVER
+7)INTERACTIVE_ACTIVE
+8)INTERACTIVE_MUTED
+9)BACKGROUND_PRIMARY
+10)BACKGROUND_SECONDARY
+11)BACKGROUND_SECONDARY_ALT
+12)TERTIARY_BACKGROUND
+13)BACKGROUND_ACCENT
+14)BACKGROUND_FLOATING
+15)BACKGROUND_MOBILE_PRIMARY
+16)BACKGROUND_MOBILE_SECONDARY
+17)BACKGROUND_NESTED_FLOATING
+18)BACKGROUND_MODIFIER_HOVER
+19)BACKGROUND_MODIFIER_SELECTED
+20)BACKGROUND_MODIFIER_ACCENT
+21)SCROLLBAR_THIN_THUMB
+22)SCROLLBAR_AUTO_TRACK
+23)CHANNELTEXTAREA_BACKGROUND
+24)DEFAULT_CHANNELS
+25)TEXT_LINK
+26) KEYBOARD
+This is the structure that the file must always have, you just need to modify the values ​​described previously:
+
+ ```
+{
+ "name": "theme name",
+ "description": "description here",
+ "version": "write the version here",
+ "authors": [
+ {
+ "name": "seregonwar",
+ "id": "705853948052897813"
+ }
+ ],
+ "theme_color_map": {
+ "HEADER_PRIMARY": [
+ "#000000",
+ "#000000"
+ ],
+ "HEADER_SECONDARY": [
+ "#000000",
+ "#000000"
+ ],
+ "NORMAL_TEXT": [
+ "#000000",
+ "#000000"
+ ],
+ "TEXT_MUTED": [
+ "#000000",
+ "#000000"
+ ],
+ "INTERACTIVE_NORMAL": [
+ "#000000",
+ "#000000"
+ ],
+ "INTERACTIVE_HOVER": [
+ "#000000",
+ "#000000"
+ ],
+ "INTERACTIVE_ACTIVE": [
+ "#000000",
+ "#000000"
+ ],
+ "INTERACTIVE_MUTED": [
+ "#000000",
+ "#000000"
+ ],
+ "BACKGROUND_PRIMARY": [
+ "#000000",
+ "#000000"
+ ],
+ "BACKGROUND_SECONDARY": [
+ "#000000",
+ "#000000"
+ ],
+ "BACKGROUND_SECONDARY_ALT": [
+ "#000000",
+ "#000000"
+ ],
+ "TERTIARY_BACKGROUND": [
+ "#000000",
+ "#000000"
+ ],
+ "BACKGROUND_ACCENT": [
+ "#000000",
+ "#000000"
+ ],
+ "BACKGROUND_FLOATING": [
+ "#000000",
+ "#000000"
+ ],
+ "BACKGROUND_MOBILE_PRIMARY": [
+ "#000000",
+ "#000000"
+ ],
+ "BACKGROUND_MOBILE_SECONDARY": [
+ "#000000",
+ "#000000"
+ ],
+ "BACKGROUND_NESTED_FLOATING": [
+ "#000000",
+ "#000000"
+ ],
+ "BACKGROUND_MESSAGE_HOVER": [
+ "rgba(000, 000, 000, 0.00)",
+ "#000000"
+ ],
+ "BACKGROUND_MODIFIER_HOVER": [
+ "rgba(000, 000, 000, 0.00)",
+ "hsla(0, 0%, 0%, 0.00)"
+ ],
+ "BACKGROUND_MODIFIER_ACTIVE": [
+ "rgba(000, 000, 000, 0.00)",
+ "hsla(0, 0%, 0%, 0)"
+ ],
+ "BACKGROUND_MODIFIER_SELECTED": [
+ "rgba(000, 000, 000, 0.00)",
+ "hsla(0, 0%, 0%, 0)"
+ ],
+ "BACKGROUND_MODIFIER_ACCENT": [
+ "transparent",
+ "hsla(0, 0%, 0%, 0.00)"
+ ],
+ "SCROLLBAR_THIN_THUMB": [
+ "#000000",
+ "hsla(0, 0%, 0%, 0.0)"
+ ],
+ "SCROLLBAR_THIN_TRACK": [
+ "transparent",
+ "hsla(0, 0%, 0%, 0)"
+ ],
+ "SCROLLBAR_AUTO_THUMB": [
+ "#000000",
+ "#000000"
+ ],
+ "SCROLLBAR_AUTO_TRACK": [
+ "rgba(0, 0, 0, 0.0)",
+ "#000000"
+ ],
+ "CHANNELTEXTAREA_BACKGROUND": [
+ "#000000",
+ "#000000"
+ ],
+ "CHANNELS_DEFAULT": [
+ "#000000",
+ "#000000"
+ ],
+ "TEXT_LINK": [
+ "#000000",
+ "#000000"
+ ],
+ "KEYBOARD": [
+ "#000000",
+ "#000000"
+ ]
+ },
+ "colors": {
+ "PRIMARY_DARK": "#000000",
+ "PRIMARY_DARK_100": "#000000",
+ "PRIMARY_DARK_200": "#000000",
+ "PRIMARY_DARK_300": "#000000",
+ "PRIMARY_DARK_360": "#000000",
+ "PRIMARY_DARK_400": "#000000",
+ "PRIMARY_DARK_500": "#000000",
+ "PRIMARY_DARK_600": "#000000",
+ "PRIMARY_DARK_630": "#000000",
+ "PRIMARY_DARK_700": "#000000",
+ "PRIMARY_DARK_800": "#000000",
+ "BRAND_NEW": "#000000",
+ "STATUS_RED": "#000000",
+ "STATUS_GREEN_600": "#000000",
+ "YELLOW_STATE": "#000000"
+ },
+ "unsafe_colors": {
+ "CHAT_GREY": "#000000"
+ },
+ "background": {
+ "blur": 0.5,
+ "url": "https://wallpapertag.com/wallpaper/full/7/5/3/152254-vertical-pure-black-wallpaper-1440x2560-large-length.jpg",
+ "alpha": 1.0
+ }
+}
+```
