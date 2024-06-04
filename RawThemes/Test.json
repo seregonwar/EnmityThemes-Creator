@@ -1,1 +1,159 @@
+{
+  "name": "Custom Theme",
+  "description": "A custom theme with personalized colors",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "seregonwar",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "HEADER_SECONDARY": [
+      "#1a1a1a",
+      "#1a1a1a"
+    ],
+    "NORMAL_TEXT": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "TEXT_MUTED": [
+      "#b0b0b0",
+      "#b0b0b0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#4a90e2",
+      "#4a90e2"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#357ab8",
+      "#357ab8"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#2c5a93",
+      "#2c5a93"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#8b8b8b",
+      "#8b8b8b"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#121212",
+      "#121212"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#181818",
+      "#181818"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1e1e1e",
+      "#1e1e1e"
+    ],
+    "TERTIARY_BACKGROUND": [
+      "#232323",
+      "#232323"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#282828",
+      "#282828"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#2e2e2e",
+      "#2e2e2e"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#333333",
+      "#333333"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#383838",
+      "#383838"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#3d3d3d",
+      "#3d3d3d"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(50, 50, 50, 0.1)",
+      "#3e3e3e"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(50, 50, 50, 0.1)",
+      "hsla(0, 0%, 20%, 0.1)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(50, 50, 50, 0.2)",
+      "hsla(0, 0%, 20%, 0.2)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(50, 50, 50, 0.3)",
+      "hsla(0, 0%, 20%, 0.3)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(0, 0%, 20%, 0.1)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#4e4e4e",
+      "hsla(0, 0%, 20%, 0.4)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 20%, 0.2)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#525252",
+      "#525252"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#545454"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1c1c1c",
+      "#1c1c1c"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#888888",
+      "#888888"
+    ],
+    "TEXT_LINK": [
+      "#007acc",
+      "#007acc"
+    ],
+    "KEYBOARD": [
+      "#333333",
+      "#333333"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#0a0a0a",
+    "PRIMARY_DARK_100": "#0b0b0b",
+    "PRIMARY_DARK_200": "#0c0c0c",
+    "PRIMARY_DARK_300": "#0d0d0d",
+    "PRIMARY_DARK_360": "#0e0e0e",
+    "PRIMARY_DARK_400": "#0f0f0f",
+    "PRIMARY_DARK_500": "#101010",
+    "PRIMARY_DARK_600": "#111111",
+    "PRIMARY_DARK_630": "#121212",
+    "PRIMARY_DARK_700": "#131313",
+    "PRIMARY_DARK_800": "#141414",
+    "BRAND_NEW": "#ff4500",
+    "STATUS_RED": "#ff0000",
+    "STATUS_GREEN_600": "#00ff00",
+    "YELLOW_STATE": "#ffff00"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#333333"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://wallpapertag.com/wallpaper/full/7/5/3/152254-vertical-pure-black-wallpaper-1440x2560-large-length.jpg",
+    "alpha": 1.0
+  }
+}
 
